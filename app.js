@@ -87,6 +87,7 @@ for (let i = 0; i < 20; i++) {
   }
   person.lastName = randChoice(lastNames);
   person.age = randChoice(age);
+  person.email = person.firstName + '.' + person.lastName + '@gmail.com';
   people.push(person);
 }
 
