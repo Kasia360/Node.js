@@ -1,0 +1,22 @@
+[
+  { "gender": "M", "firstName": "Tucker", "lastName": "Schneider", "age": 25 },
+  { "gender": "M", "firstName": "Kael", "lastName": "Snype", "age": 33 },
+  { "gender": "F", "firstName": "Ala", "lastName": "Hammond", "age": 21 },
+  { "gender": "F", "firstName": "Adrianna", "lastName": "Lunatius", "age": 64 },
+  { "gender": "M", "firstName": "Ezeq", "lastName": "Lunatius", "age": 45 },
+  { "gender": "F", "firstName": "Ala", "lastName": "Chock", "age": 25 },
+  { "gender": "F", "firstName": "Melanie", "lastName": "Taren", "age": 67 },
+  { "gender": "M", "firstName": "Jacson", "lastName": "Schneider", "age": 49 },
+  { "gender": "M", "firstName": "Ezeq", "lastName": "Snype", "age": 68 },
+  { "gender": "M", "firstName": "Asher", "lastName": "Fish", "age": 30 },
+  { "gender": "M", "firstName": "Carl", "lastName": "Hammond", "age": 45 },
+  { "gender": "F", "firstName": "Jay", "lastName": "Daver", "age": 18 },
+  { "gender": "M", "firstName": "Carol", "lastName": "Noblegen", "age": 66 },
+  { "gender": "M", "firstName": "Kael", "lastName": "Haller", "age": 42 },
+  { "gender": "M", "firstName": "Kall", "lastName": "Fish", "age": 29 },
+  { "gender": "M", "firstName": "Duck", "lastName": "Wag", "age": 69 },
+  { "gender": "M", "firstName": "Jovanni", "lastName": "Noblegen", "age": 85 },
+  { "gender": "F", "firstName": "Yara", "lastName": "Routas", "age": 39 },
+  { "gender": "F", "firstName": "Yara", "lastName": "Fish", "age": 83 },
+  { "gender": "M", "firstName": "Ramzes", "lastName": "Dodson", "age": 32 }
+]
